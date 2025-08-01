@@ -1,0 +1,23 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Среда разработки
+.idea/
+.vscode/
+
+
+# Логи и временные файлы
+*.log
+*.cache
+*.tmp
+
+# .env-файлы
+.env
+
+# OS специфические
+ehthumbs.db
+Desktop.ini
+
+# Кэш от PHP
+*.php~
